@@ -25,6 +25,5 @@
       "@/*": ["./src/*"]
     },
     "types": ["vite/client", "naive-ui/volar", "node"]
-  },
-  "exclude": []
+  }
 }
