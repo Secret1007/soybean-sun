@@ -2,7 +2,7 @@ type ServiceEnv = Record<ServiceEnvType, ServiceEnvConfig>;
 
 const serviceEnv: ServiceEnv = {
   dev: {
-    url: "http://localhost:8080",
+    url: "http://172.26.64.155:8089/jc",
   },
   test: {
     url: "http://localhost:8080",
